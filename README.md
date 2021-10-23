@@ -34,7 +34,7 @@ Django live project that consisted of two one-week sprints with daily standups a
 
 - Home HTML: Just to display the home page image centered in a div container. 
 
-![photo](https://github.com/Kelinz74/Django-Live-Project/blob/main/Screenshot%20(6).png?raw=true) 
+![photo](https://github.com/Kelinz74/Django-Live-Project/blob/main/Screenshot%20(25).png?raw=true) 
 
   
 
